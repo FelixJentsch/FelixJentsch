@@ -18,5 +18,4 @@
 
 ![surprised-koala-pic](https://interesting-facts.com/wp-content/uploads/2019/04/Koala-Facts.jpg "surprised-koala")
 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFelixJentsch&label=Visitors&labelColor=%23697689&countColor=%23d9e3f0)
