@@ -10,7 +10,7 @@
 - Games
 - Anime
 
-📫 How to reach me: Point the Bat-Signal into the night sky
+📫 How to reach me: Point the Bat-Signal into the night sky. FelixJentsch91@gmail.com for the boring people :P
 
 😄 Pronouns: he/him
 
