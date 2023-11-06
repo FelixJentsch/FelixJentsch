@@ -12,5 +12,6 @@
 - 📫 How to reach me: Point the Bat-signal into the night sky
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Koalas are dumb as dirt! Don`t believe it? Google it for yourself...
-  ![dumb koala pic](https://interesting-facts.com/wp-content/uploads/2019/04/Koala-Facts.jpg)
+
+![dumb koala pic](https://interesting-facts.com/wp-content/uploads/2019/04/Koala-Facts.jpg)
   
