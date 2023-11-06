@@ -12,7 +12,7 @@
 
 📫 How to reach me: Point the Bat-signal into the night sky
 
-😄 Pronouns: He/him
+😄 Pronouns: he/him
 
 ⚡ Fun fact: Koalas are dumb as dirt! Don`t believe it? Google it for yourself...
 
