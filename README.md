@@ -5,7 +5,10 @@
 
 - 🌱 I’m currently learning how to walk in new shoes (HTML,CSS,JS)
 - 🤔 I’m looking for help with basically everything as of right now :D
-- 💬 Ask me about Movies, Games, Anime
+- 💬 Ask me about:
+- Movies
+- Games
+- Anime
 - 📫 How to reach me: Point the Bat-signal into the night sky
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Koalas are dumb as dirt! Don`t believe it? Google it for yourself...
