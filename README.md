@@ -12,7 +12,7 @@
 
 📫 How to reach me: Point the Bat-Signal into the night sky. 
 
-Or for the boring people just use FelixJentsch91@gmail.com :stuck_out_tongue_winking_eye:
+Or if you like it "Old_school" then just use FelixJentsch91@gmail.com :stuck_out_tongue_winking_eye:
 
 😄 Pronouns: he/him
 
