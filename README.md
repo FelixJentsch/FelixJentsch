@@ -3,7 +3,7 @@
 <!--
 **FelixJentsch/FelixJentsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🌱 I’m currently learning how to walk in new shoes (HTML,CSS,JS)
+🌱 I’m currently learning how to walk in new shoes (neuefische.de / HTML,CSS,JS)
 
 💬 Ask me about:
 - Movies
