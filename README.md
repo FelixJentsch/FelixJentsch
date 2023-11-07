@@ -1,4 +1,4 @@
-<h2 align='center'>:wave: Hello! :wave:</h2>
+<h1 align='center'>:wave: Hello! :wave:</h1>
 
 <!--
 **FelixJentsch/FelixJentsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
