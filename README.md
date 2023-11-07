@@ -12,8 +12,6 @@
 
 📫 How to reach me: Point the Bat-Signal into the night sky. 
 
-  Or if you like it "Old-School" then just use FelixJentsch91@gmail.com :stuck_out_tongue_winking_eye:
-
 😄 Pronouns: he/him
 
 ⚡ Fun fact: Koalas are dumb as dirt! Don`t believe it? Google it for yourself...
